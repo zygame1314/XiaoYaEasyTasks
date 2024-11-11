@@ -26,8 +26,8 @@
    请先确保你的浏览器已安装 [油猴插件](https://www.tampermonkey.net/)（Tampermonkey），这是一个流行的浏览器扩展，可以管理用户脚本。
 
 2. **安装脚本**  
-   - 直接将脚本代码粘贴到油猴插件中并保存
-   - 或者通过 [Greasy Fork](https://greasyfork.org) 安装，快速开始使用！
+   - **直接下载**：通过 [Greasy Fork](https://greasyfork.org/zh-CN/scripts/516837-%E5%B0%8F%E9%9B%85%E5%81%9A%E5%81%9A%E5%81%9A) 访问脚本页面并安装。
+   - **手动安装**：将脚本代码粘贴到油猴插件中并保存，立即开始使用。
 
 3. **进入小雅平台课程页面**  
    打开任意课程页面，在右侧会看到浮动的控制按钮，点击按钮展开任务列表，即可查看和管理当前课程任务。
@@ -60,3 +60,7 @@
 ## 🎉 最后
 
 感谢你使用 **小雅做做做**！希望它能帮助你更高效地完成学习目标。如果你有任何建议或问题，欢迎在 [Issues](https://github.com/你的GitHub用户名/仓库名/issues) 区与我交流！Happy Learning! 📚🚀
+
+---
+
+### [📥 点击此处前往 Greasy Fork 下载脚本](https://greasyfork.org/zh-CN/scripts/516837-%E5%B0%8F%E9%9B%85%E5%81%9A%E5%81%9A%E5%81%9A)
