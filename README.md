@@ -26,7 +26,7 @@
    请先确保你的浏览器已安装 [油猴插件](https://www.tampermonkey.net/)（Tampermonkey），这是一个流行的浏览器扩展，可以管理用户脚本。
 
 2. **安装脚本**  
-   - **直接下载**：通过 [Greasy Fork](https://greasyfork.org/zh-CN/scripts/516837-%E5%B0%8F%E9%9B%85%E5%81%9A%E5%81%9A%E5%81%9A) 访问脚本页面并安装。
+   - **直接下载**：通过 [脚本猫](https://scriptcat.org/zh-CN/script-show-page/2772) 访问脚本页面并安装。
    - **手动安装**：将脚本代码粘贴到油猴插件中并保存，立即开始使用。
 
 3. **进入小雅平台课程页面**  
