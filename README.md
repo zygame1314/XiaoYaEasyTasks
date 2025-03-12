@@ -57,10 +57,4 @@
 
 ---
 
-## 🎉 最后
-
-感谢你使用 **小雅做做做**！希望它能帮助你更高效地完成学习目标。如果你有任何建议或问题，欢迎在 [Issues](https://github.com/你的GitHub用户名/仓库名/issues) 区与我交流！Happy Learning! 📚🚀
-
----
-
 ### [📥 点击此处前往 Greasy Fork 下载脚本](https://greasyfork.org/zh-CN/scripts/516837-%E5%B0%8F%E9%9B%85%E5%81%9A%E5%81%9A%E5%81%9A)
