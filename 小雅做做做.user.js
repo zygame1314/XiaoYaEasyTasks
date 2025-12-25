@@ -784,7 +784,7 @@
                                 rgba(255,255,255,0.3) 50%,
                                 transparent 100%
                             );
-                            animation: shimmer 2s infinite;
+                            animation: task-shimmer 2s infinite;
                         "></div>
                     </div>
                     <div style="
@@ -805,7 +805,7 @@
                                 rgba(255,255,255,0.3) 50%,
                                 transparent 100%
                             );
-                            animation: shimmer 2s infinite;
+                            animation: task-shimmer 2s infinite;
                         "></div>
                     </div>
                     <div style="
@@ -826,7 +826,7 @@
                                 rgba(255,255,255,0.3) 50%,
                                 transparent 100%
                             );
-                            animation: shimmer 2s infinite;
+                            animation: task-shimmer 2s infinite;
                         "></div>
                     </div>
                 </div>
@@ -916,7 +916,7 @@
         });
         const style = document.createElement('style');
         style.textContent = `
-            @keyframes shimmer {
+            @keyframes task-shimmer {
                 0% {
                     transform: translateX(-100%);
                 }
