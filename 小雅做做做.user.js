@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         小雅做做做
-// @version      1.3.6
+// @version      1.3.6.1
 // @description  🚀 一键管理小雅平台任务，智能跟踪作业进度！✨ 支持自主学习任务的便捷提交，直观展示任务状态，帮你更高效完成学习目标！ 📈
 // @author       Yi
 // @license       MIT
