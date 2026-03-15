@@ -51,7 +51,7 @@
 
 本项目的后端服务部署在 Cloudflare 上，为保证服务的稳定和高性能，已启用付费套餐（一个月一块钱）。如果您觉得这个项目对您有帮助，可以考虑通过爱发电支持我们，覆盖服务器成本。
 
-在爱发电上支持我[<img src="https://static.afdiancdn.com/static/img/logo/logo.png" width="50" /> 点击直达](https://afdian.com/a/zygame1314)
+在爱发电上支持我[<img src="https://static.afdiancdn.com/static/img/logo/logo.png" width="50" /> 点击直达](https://ifdian.net/a/zygame1314)
 
 ---
 
